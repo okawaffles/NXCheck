@@ -50,7 +50,8 @@ main.o: C:/users/eli/desktop/nxcheck/nxcheck/source/main.cpp \
  C:/devkitPro/portlibs/switch/include/SDL2/SDL_mixer.h \
  C:/devkitPro/portlibs/switch/include/SDL2/SDL_image.h \
  C:/devkitPro/portlibs/switch/include/SDL2/SDL.h \
- C:/devkitPro/portlibs/switch/include/SDL2/SDL_ttf.h
+ C:/devkitPro/portlibs/switch/include/SDL2/SDL_ttf.h \
+ C:/users/eli/desktop/nxcheck/nxcheck/source/touch.h
 C:/devkitPro/portlibs/switch/include/SDL2/SDL.h:
 C:/devkitPro/portlibs/switch/include/SDL2/SDL_main.h:
 C:/devkitPro/portlibs/switch/include/SDL2/SDL_stdinc.h:
@@ -103,3 +104,4 @@ C:/devkitPro/portlibs/switch/include/SDL2/SDL_mixer.h:
 C:/devkitPro/portlibs/switch/include/SDL2/SDL_image.h:
 C:/devkitPro/portlibs/switch/include/SDL2/SDL.h:
 C:/devkitPro/portlibs/switch/include/SDL2/SDL_ttf.h:
+C:/users/eli/desktop/nxcheck/nxcheck/source/touch.h:
