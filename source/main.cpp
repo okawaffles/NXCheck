@@ -76,6 +76,11 @@ void drawOptions(SDL_Renderer *renderer) {
     SDL_RenderFillRect(renderer, &op0);
     easyDrawText(renderer, fontdef, "Touchscreen", white, 5, 80);
 
+    SDL_SetRenderDrawColor(renderer, 55, 103, 112, 255);
+    SDL_Rect op1 = {0, 100, 250, 85};
+    SDL_RenderFillRect(renderer, &op1);
+    easyDrawText(renderer, fontdef, "Buttons", white, 5, 105);
+
 
 
     //clean up
